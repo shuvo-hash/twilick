@@ -10872,11 +10872,13 @@ body {
 }
 
 #status.success {
+  margin-top: 10px;
   background-color: rgb(211, 250, 153);
   animation: status 4s ease forwards;
 }
 
 #status.error {
+  margin-top: 10px;
   background-color: rgb(250, 129, 92);
   color: white;
   animation: status 4s ease forwards;

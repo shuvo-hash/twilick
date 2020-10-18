@@ -10757,7 +10757,9 @@ body {
 }
 
 .projects-section {
-  padding: 3rem 0;
+  padding: 2rem 0;
+}
+.project-h1 {
 }
 .projects-section .featured-text {
   padding: 2rem;
